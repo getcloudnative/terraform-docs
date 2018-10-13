@@ -1,6 +1,6 @@
 ## terraform-docs
 
-[![CircleCI](https://circleci.com/gh/segmentio/terraform-docs.svg?style=svg)](https://circleci.com/gh/segmentio/terraform-docs)
+[![CircleCI](https://circleci.com/gh/segmentio/terraform-docs.svg?style=svg)](https://circleci.com/gh/segmentio/terraform-docs) <a href="https://codeclimate.com/github/getcloudnative/terraform-docs/maintainability"><img src="https://api.codeclimate.com/v1/badges/2f19d9848415429b9392/maintainability" /></a> <a href="https://codeclimate.com/github/getcloudnative/terraform-docs/test_coverage"><img src="https://api.codeclimate.com/v1/badges/2f19d9848415429b9392/test_coverage" /></a>
 
 A utility to generate documentation from Terraform modules.
 
